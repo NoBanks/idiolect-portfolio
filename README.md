@@ -52,15 +52,15 @@ Built with TypeScript, Vite, React, Tailwind v4, Motion. Local MLX inference for
 
 ## Pricing
 
-- **Trip Pass: $19 one-time.** 14 days, one destination, unlimited generation. The traveler tier.
+- **Trip Pass: $19 one-time.** 30 days, one destination, unlimited generation. The traveler tier.
 - **Monthly: $9.99 per month.** All 12 languages, photo-to-translate, daily rehearsal, the learner tier. Cancel anytime.
-- **Founder Wing.** 5 progressive tiers, 234 total slots, 12-month founder window. Help fund the build.
-  - T1 Early Adopter $29 (50 slots)
-  - T2 Pioneer $49 (50 slots)
-  - T3 Trailblazer $79 (50 slots)
-  - T4 Builder $109 (50 slots)
-  - T5 Visionary $149 (34 slots)
-  - Prices rise as slots fill.
+- **Founder Wing.** 5 progressive tiers, 1000 total slots. Help fund the build.
+  - T1 Explorer $49 (500 slots, 1 year)
+  - T2 Voyager $89 (300 slots, 2 years)
+  - T3 Companion $149 (125 slots, 2 years, Family Pack)
+  - T4 Believer $249 (60 slots, 5 years, Your Voice alpha)
+  - T5 Sovereign $499 (15 slots, 5 years, ecosystem alpha)
+  - Prices rise as slots fill. Founder pledges are non-refundable.
 
 ---
 
