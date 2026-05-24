@@ -1,6 +1,6 @@
 # Idiolect
 
-**Your voice. Any language. By tomorrow.**
+**Your voice. Any language. Hear for yourself.**
 
 [idiolect.livingagentic.me](https://idiolect.livingagentic.me)
 
